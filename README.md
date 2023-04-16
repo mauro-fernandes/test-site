@@ -1,2 +1,2 @@
-# test-site
+# test site
 Test site
